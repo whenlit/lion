@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.9.6
+
+### Patch Changes
+
+- Updated dependencies [60862650]
+  - @lion/input-stepper@0.6.4
+
 ## 0.9.5
 
 ### Patch Changes
